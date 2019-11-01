@@ -1,0 +1,6 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/React-Getting-Started.iml
+guide-1/.gitignore
+guide-1/README.md
+guide-1/package.json
+node_modules/
